@@ -1,0 +1,23 @@
+[com/raggesilver/BlackBox]
+window-width=1397
+window-height=898
+pretty=true
+terminal-padding=(16, 16, 16, 16)
+scrollback-lines=993
+font='Monospace 12'
+opacity=96
+theme-dark='Catppuccin-Macchiato'
+window-show-borders=false
+remember-window-size=true
+hide-single-tab=true
+show-headerbar=true
+show-menu-button=true
+floating-controls=true
+easy-copy-paste=true
+fill-tabs=true
+headerbar-draw-line-single-tab=false
+floating-controls-hover-area=6
+stealth-single-tab=true
+headerbar-drag-area=true
+delay-before-showing-floating-controls=250
+use-custom-command=false
