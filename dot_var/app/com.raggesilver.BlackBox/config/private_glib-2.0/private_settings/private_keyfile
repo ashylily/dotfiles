@@ -1,10 +1,10 @@
 [com/raggesilver/BlackBox]
-window-width=1397
-window-height=898
+window-width=1218
+window-height=779
 pretty=true
 terminal-padding=(16, 16, 16, 16)
 scrollback-lines=993
-font='Monospace 12'
+font='MesloLGS NF 12'
 opacity=96
 theme-dark='Catppuccin-Macchiato'
 window-show-borders=false
